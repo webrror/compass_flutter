@@ -1,16 +1,11 @@
-# compass_flutter_all
+# compass_flutter
 
-A new Flutter project.
+A simple compass app using Flutter
 
-## Getting Started
+<img src='showcase/compassiOS.gif' width=250 />
 
-This project is a starting point for a Flutter application.
+### Credit
 
-A few resources to get you started if this is your first Flutter project:
+<a href="https://www.youtube.com/watch?v=hjVkrAaonWI&ab_channel=MitchKoko">Mitch Koko Video Tutorial</a> | <a href="https://github.com/mitchkoko/FlutterCompass/">Repo</a> 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
